@@ -2,7 +2,7 @@
 
 I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and Music Maker! 🎵 and have worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
 
-### About Me:
+### About Me
 
 A techie at heart, I’ve been building software since I was a teenager from back in the early days of Home & Personal Computing, and love inventing and building tools that people love to use which generate real commercial value and ROI.
 
@@ -20,7 +20,3 @@ On my Github you will find lots of fun stuff. I do collect lots of old legacy co
 ### 📫 How to reach me
 
 The best place to find me is on [LinkedIn](https://www.linkedin.com/in/philspilsburyonline/) but also on [Twitter](https://twitter.com/philspil66) and if you are a music-head then do connect to me on [Facebook](https://www.facebook.com/philspil) where it's all about the music!
-
-
-
-
