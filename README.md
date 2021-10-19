@@ -6,7 +6,7 @@ I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and 
 
 A techie at heart, I’ve been building software since I was a teenager from back in the early days of Home & Personal Computing, and love inventing and building tools that people love to use which generate real commercial value and ROI.
 
-I love building Micro-SaaS and side-businesses.
+I also love building Micro-SaaS and side-businesses - helps keep the bank full and the bills paid!
 
 I've worked in many sectors over the years for people such as:
 NHS, Department of Health, Pen Test Partners, Ryder Plc, Ministry of Defence, Wincanton, Marks and Spencer's (UK & China), Orange, Waitrose, Karstadt (Germany/Europe), Bass Pro Stores (USA), DSG International (Dixons, The Link), 3663, Unipart, Budgens, BWG Spa, Event Support Team Ltd, IAW Resources.
