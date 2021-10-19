@@ -2,6 +2,8 @@
 
 I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and Music Maker! 🎵 and have worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
 
+Code wise I started out back in 1981 using BASIC, and progressed to COBOL and used many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding for Android and Apple Objective-C. Also worked with PHP using Laravel and Symfony, and have used Python, a bit of Golang and lots of front end JS frameworks. I've done a bunch of stuff 😉
+
 ### 💾 About Me
 
 A techie at heart, I’ve been building software since I was a teenager from back in the early days of Home & Personal Computing, and love inventing and building tools that people love to use which generate real commercial value and ROI.
