@@ -21,4 +21,4 @@ On my Github you will find lots of fun stuff. I do collect lots of old legacy co
 
 ### 📫 How to reach me
 
-The best place to find me is on [LinkedIn](https://www.linkedin.com/in/philspilsburyonline/) but also on [Twitter](https://twitter.com/philspil66) and if you are a music-head then do connect to me on [Facebook](https://www.facebook.com/philspil) where it's all about the music!
+The best place to find me is on [LinkedIn](https://www.linkedin.com/in/philspilsbury/) but also on [Twitter](https://twitter.com/philspil66) and if you are a music-head then do connect to me on [Facebook](https://www.facebook.com/philspil) where it's all about the music!
