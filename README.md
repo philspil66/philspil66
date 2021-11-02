@@ -15,6 +15,11 @@ NHS, Department of Health, Pen Test Partners, Ryder Plc, Ministry of Defence, Wi
 
 I'm currently doing some work in the Cyber-Security 🔒 sector with [Pen Test Partners](https://www.pentestpartners.com/) and also building my own Marketing-Tech products such as [zubbit.io](https://zubbit.io) 🚀 (worth checking this one out 😉), Power Traffic X, and dabbling with some music projects 🎹 🎵 and writing a book 📚 so quite busy!
 
+Outside of coding I'm a massive 🎸 music fan and have been hitting the gig scene for over 30 years, going to see anything from Andy Williams live to Napalm Death on the other end of the scale. I like a lot of different sorts and genre's of music for sure! 
+
+I'm not a natural musician myself but like playing with Albelton and hope that something nice sounding will come out of it one day that's worth loading up to Soundcloud. 
+
+
 ### ⚡ My Github
 
 On my Github you will find lots of fun stuff. I do collect lots of old legacy code, especially vintage gaming software, and I'm also writing some games, both recreating some classic old-skool games but also planning to write some new games. So check out my repos! All a bit of a work in progress so do ping me if you have any questions.
