@@ -13,7 +13,7 @@ I also love building Micro-SaaS and side-businesses - helps keep the bank full a
 I've worked in many sectors over the years for people such as:
 NHS, Department of Health, Pen Test Partners, Ryder Plc, Ministry of Defence, Wincanton, Marks and Spencer's (UK & China), Orange, Waitrose, Karstadt (Germany/Europe), Bass Pro Stores (USA), DSG International (Dixons, The Link), 3663, Unipart, Budgens, BWG Spa, Event Support Team Ltd, IAW Resources.
 
-I'm currently doing some work in the Cyber-Security 🔒 sector with [Pen Test Partners](https://www.pentestpartners.com/) and also building my own Marketing-Tech products such as [zubbit.io](https://zubbit.io) 🚀 (worth checking this one out 😉), Power Traffic X, and dabbling with some music projects 🎹 🎵 and writing a book 📚 so quite busy!
+I'm currently doing some work in the Cyber-Security 🔒 sector with [Pen Test Partners](https://www.pentestpartners.com/) and also building my own Marketing-Tech products such as [zubbit.io](https://zubbit.io) 🚀 and dabbling with some music projects 🎹 🎵 and writing a book 📚 so quite busy!
 
 Outside of coding I'm a massive 🎸 music fan and have been hitting the gig scene for over 30 years, going to see anything from Andy Williams live to Napalm Death on the other end of the scale. I like a lot of different sorts and genre's of music for sure! 
 
