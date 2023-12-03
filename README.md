@@ -1,4 +1,4 @@
-![space-invader](https://github.com/philspil66/philspil66/assets/14840708/8b2b1911-810e-4116-b362-cc9e7e208505)
+<img src="https://github.com/philspil66/philspil66/assets/14840708/8b2b1911-810e-4116-b362-cc9e7e208505" width="250" height="250">
 
 ## Hey, I'm Phil
 
