@@ -8,7 +8,8 @@
 - I live on a small island in the North Atlantic Ocean called Great Britain.
 - On the internet, I'm known as The Software Wizard.
 - A few of my recent projects are [TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
-- 
+- I also like writing classic game clones. Here are a few: [Atari Asteroids (1979)](https://philspilsbury.com/asteroids) | [Spacewar (1962)](https://philspilsbury.com/spacewar) | [Atari Pong (1972)](https://philspilsbury.com/pong) | [Hamurabi (1978)](https://philspilsbury.com/hamurabi)
+- Quirky stuff too like: [Ripple (2023) - Live Reddit comment steam (2023)](https://philspilsbury.com/ripple) | [Word Grid Game (2023) - work in progress!)](https://philspilsbury.com/word-grid)
 
 
 I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and Music Maker! 🎵 and have worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
