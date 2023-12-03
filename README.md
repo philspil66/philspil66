@@ -4,6 +4,13 @@
 
 ### I enjoy building cool - and sometimes quirky - software products. ###
 
+- I am a Software Polygot | Music Lover & Maker | and avid 30+ year Gig goer.
+- I live on a small island in the North Atlantic Ocean called Great Britain.
+- On the internet, I'm known as The Software Wizard.
+- A few of my recent projects are [TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
+- 
+
+
 I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and Music Maker! 🎵 and have worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
 
 Code wise I started out back in 1981 using BASIC, and progressed to COBOL and used many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP using Laravel and Symfony, and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
