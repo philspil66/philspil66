@@ -37,8 +37,8 @@ I'm not a natural musician myself but like playing with Albelton and hope that s
 On my Github you will find lots of fun stuff. I do collect lots of old legacy code, especially vintage gaming software, and I'm also writing some games, both recreating some classic old-skool games but also planning to write some new games. So check out my repos! All a bit of a work in progress so do ping me if you have any questions.
 
 ### Internet Presence 
-[![my website](https://img.shields.io/badge/My-Website-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white)](https://philspilsbury.com)
+[![my website](https://img.shields.io/badge/my%20website-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white)](https://philspilsbury.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/philspilsbury)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PhilSpilsbury)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/philspil66)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.youtube.com/@PhilSpilsbury)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Phil-Spilsbury-1)
