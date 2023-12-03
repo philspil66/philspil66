@@ -1,4 +1,4 @@
-<img src="https://github.com/philspil66/philspil66/assets/14840708/8b2b1911-810e-4116-b362-cc9e7e208505" width="250" height="250">
+<img src="https://github.com/philspil66/philspil66/assets/14840708/4025214b-5023-41f2-82d0-77164ae73937" width="150" height="150">
 
 ## Hey, I'm Phil
 
