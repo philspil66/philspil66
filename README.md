@@ -1,8 +1,8 @@
 <img src="https://github.com/philspil66/philspil66/assets/14840708/4025214b-5023-41f2-82d0-77164ae73937" width="150" height="150">
 
-## Hey, I'm Phil
+# Hey, I'm Phil
 
-#### I enjoy building cool - and sometimes quirky - software products. ####
+### I enjoy building cool - and sometimes quirky - software products. ###
 
 I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and Music Maker! 🎵 and have worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
 
