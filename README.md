@@ -1,4 +1,8 @@
+![space-invader](https://github.com/philspil66/philspil66/assets/14840708/8b2b1911-810e-4116-b362-cc9e7e208505)
+
 ## Hey, I'm Phil
+
+#### I enjoy building cool - and sometimes quirky - software products. ####
 
 I'm a Software Polyglot 💾 Full Stack Developer 🖥️ Music Lover! 🎸 and Music Maker! 🎵 and have worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
 
