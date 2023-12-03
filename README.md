@@ -13,7 +13,7 @@
 
 ### 💾 About Me
 
-Code wise I started out back in 1981 as a teenager back in the early days of Home & Personal Computing using BASIC, and from there progressed to COBOL and using many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP using Laravel and Symfony, and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
+Programming wise I started back in 1981 as a teenager in the early days of Home & Personal Computing using BASIC, and from there progressed to COBOL and using many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP using Laravel and Symfony, and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
 
 I've worked with many great Tech Companies for 30+ years as well as building my own businesses which have generated over $2.5 million in sales.
 
