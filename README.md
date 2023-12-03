@@ -24,6 +24,7 @@ I'm not a natural musician myself but like playing with Albelton and hope that s
 
 On my Github you will find lots of fun stuff. I do collect lots of old legacy code, especially vintage gaming software, and I'm also writing some games, both recreating some classic old-skool games but also planning to write some new games. So check out my repos! All a bit of a work in progress so do ping me if you have any questions.
 
-### 📫 How to reach me
-
-The best place to find me is on [LinkedIn](https://www.linkedin.com/in/philspilsbury/) but also on [Twitter](https://twitter.com/philspil66) and if you are a music-head then do connect to me on [Facebook](https://www.facebook.com/philspil) where it's all about the music!
+### Internet Presence 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/philspilsbury)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PhilSpilsbury)
+[![twitter](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://twitter.com/philspil66)
