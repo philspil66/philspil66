@@ -7,7 +7,7 @@
 - I am a Software Polygot | Music Lover & Maker | and avid 30+ year Gig goer.
 - I live on a small island in the North Atlantic Ocean called Great Britain.
 - On the internet, I'm known as The Software Wizard.
-- A few of my recent projects are [The Tools Foundry (2024)](https://thetoolsfoundry.com) |[TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
+- A few of my recent projects are [The Tools Foundry (2024)](https://thetoolsfoundry.com) | [TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
 - I also like writing classic game clones. Here are a few: [Atari Asteroids (1979)](https://philspilsbury.com/asteroids) | [Spacewar (1962)](https://philspilsbury.com/spacewar) | [Atari Pong (1972)](https://philspilsbury.com/pong) | [Hamurabi (1978)](https://philspilsbury.com/hamurabi)
 - Quirky stuff too like: [Ripple (2023) - Live Reddit comment steam (2023)](https://philspilsbury.com/ripple) | [Word Grid Game (2023) - work in progress!)](https://philspilsbury.com/word-grid)
 
